@@ -41,9 +41,6 @@ Dabei gilt:
 Diese App verwendet **Google AdMob**, einen Werbedienst der  
 **Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland**.
 
-In dieser App wird **ausschließlich nicht-personalisierte Werbung** angezeigt.  
-Es findet **kein Tracking zu Werbezwecken** und **keine Profilbildung** statt.
-
 ### Verarbeitete Daten durch Google AdMob können sein:
 - Geräteinformationen (z. B. Gerätemodell, Betriebssystem)
 - Geräte- oder Werbe-IDs
@@ -52,7 +49,7 @@ Es findet **kein Tracking zu Werbezwecken** und **keine Profilbildung** statt.
 - Informationen zur Anzeigenanzeige (z. B. Zeitpunkt, App-Kontext)
 
 Diese Daten werden von Google unter anderem verwendet zur:
-- Anzeige nicht-personalisierter Werbung
+- Anzeige von Werbung
 - Betrugs- und Missbrauchsprävention
 - Sicherstellung der Funktionalität der Werbeeinblendungen
 
@@ -148,9 +145,6 @@ The following applies:
 This app uses **Google AdMob**, an advertising service provided by  
 **Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland**.
 
-This app displays **non-personalized advertisements only**.  
-No ad-related tracking or user profiling takes place.
-
 ### Data processed by Google AdMob may include:
 - Device information (e.g. device model, operating system)
 - IP address (shortened or anonymized)
@@ -158,7 +152,7 @@ No ad-related tracking or user profiling takes place.
 - Information related to ad delivery (e.g. time and app context)
 
 These data are used by Google for:
-- Displaying non-personalized ads
+- Displaying ads
 - Fraud and abuse prevention
 - Ensuring proper ad delivery and functionality
 
