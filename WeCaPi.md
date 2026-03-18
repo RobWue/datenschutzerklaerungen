@@ -1,6 +1,6 @@
 # Datenschutzerklärung / Privacy Policy
 
-**Stand / Last updated:** 30.01.2026
+**Stand / Last updated:** 18.03.2026
 
 English version below
 
@@ -25,6 +25,8 @@ Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Nachfol
 ### a) Nutzung der App
 Unsere App erhebt **keine personenbezogenen Daten zur eigenen Verarbeitung**.
 
+Es werden keine Nutzungsdaten, keine Geräteinformationen und keine personenbezogenen Daten erfasst, gespeichert oder verarbeitet.
+
 ### b) Standortdaten
 Nach Ihrer ausdrücklichen Einwilligung kann die App auf Ihren aktuellen Standort zugreifen, um das Nutzererlebnis zu vereinfachen (Vorschlag des aktuellen Städtenamens).
 
@@ -36,40 +38,22 @@ Dabei gilt:
 
 ---
 
-## 3. Werbung (Google AdMob – nicht-personalisierte Werbung)
+## 3. Werbung
 
-Diese App verwendet **Google AdMob**, einen Werbedienst der  
-**Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland**.
-
-### Verarbeitete Daten durch Google AdMob können sein:
-- Geräteinformationen (z. B. Gerätemodell, Betriebssystem)
-- Geräte- oder Werbe-IDs
-- IP-Adresse (gekürzt oder anonymisiert)
-- Ungefähre Standortinformationen (z. B. Land oder Region)
-- Informationen zur Anzeigenanzeige (z. B. Zeitpunkt, App-Kontext)
-
-Diese Daten werden von Google unter anderem verwendet zur:
-- Anzeige von Werbung
-- Betrugs- und Missbrauchsprävention
-- Sicherstellung der Funktionalität der Werbeeinblendungen
+Diese App zeigt keine Werbung an.
+Es werden keine Werbedienste (z. B. Google AdMob) verwendet und keine Daten zu Werbezwecken erhoben oder verarbeitet.
 
 ---
 
 ## 4. Weitergabe von Daten an Dritte
 
-Im Rahmen der Nutzung von Google AdMob werden Daten an Google als Drittanbieter übermittelt.  
-Eine darüber hinausgehende Weitergabe von Daten an andere Dritte erfolgt nicht.
+Es erfolgt keine Weitergabe von Daten an Dritte.
 
 ---
 
 ## 5. Drittanbieter-Dienste
 
-Diese App verwendet folgende Drittanbieter-Dienste:
-
-- **Google AdMob (Werbung)**
-
-Weitere Informationen zur Datenverarbeitung durch Google finden Sie in der Datenschutzerklärung von Google:  
-https://policies.google.com/privacy
+Diese App verwendet keine Drittanbieter-Dienste, die personenbezogene Daten verarbeiten.
 
 ---
 
@@ -129,6 +113,8 @@ Protecting your personal data is important to us. This Privacy Policy explains w
 ### a) App Usage
 This app does **not collect or process personal data for its own purposes**.
 
+No usage data, device information, or personal data is collected, stored, or processed.
+
 ### b) Location Data
 With your explicit consent, the app may access your current location in order to improve usability (suggesting the current city name).
 
@@ -140,38 +126,22 @@ The following applies:
 
 ---
 
-## 3. Advertising (Google AdMob – Non-Personalized Ads)
+## 3. Advertising
 
-This app uses **Google AdMob**, an advertising service provided by  
-**Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland**.
-
-### Data processed by Google AdMob may include:
-- Device information (e.g. device model, operating system)
-- IP address (shortened or anonymized)
-- Approximate location (e.g. country or region)
-- Information related to ad delivery (e.g. time and app context)
-
-These data are used by Google for:
-- Displaying ads
-- Fraud and abuse prevention
-- Ensuring proper ad delivery and functionality
+This app does not display advertisements.
+No advertising services (e.g. Google AdMob) are used and no data is processed for advertising purposes.
 
 ---
 
 ## 4. Data Sharing with Third Parties
 
-As part of using Google AdMob, data may be transmitted to Google as a third-party provider.  
-No further data is shared with other third parties.
+No data is shared with third parties.
 
 ---
 
 ## 5. Third-Party Services
 
-This app uses the following third-party service:
-- **Google AdMob (Advertising)**
-
-More information about Google’s data processing can be found here:  
-https://policies.google.com/privacy
+This app uses no third-party services that process personal data.
 
 ---
 
